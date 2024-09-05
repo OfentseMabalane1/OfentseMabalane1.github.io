@@ -1,17 +1,23 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=OfentseMabalane1&color=FF69B4)
 
-<h1>Hi 👋, I'm Keitumetse</h1>
+<style>
+body {
+  background-color: #000000; /* Black background */
+  color: #ffffff; 
+  font-family: Arial, sans-serif; 
+}
+</style>
 
-### A passionate software/web developer based in Johannesburg
+# Hi 👋, I'm Keitumetse
 
-![Coding](https://img.shields.io/badge/Coding-FF69B4?style=flat&logo=code&logoColor=white)
+A passionate software/web developer based in Johannesburg
 
-**𝓝𝓪𝓷𝓲𝓑𝔂𝓽𝓮**👩‍💻
+**𝓝𝓪𝓷𝓲𝓑𝔂𝓽𝓮** 👩🏾‍💻
 
-- 🌱 I’m currently learning software development
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/OfentseMabalane1)
-- 💬 Ask me about HTML, CSS, Python, Java, JavaScript
-- 📫 How to reach me: [keitumetse.mabalane123@gmail.com](mailto:keitumetse.mabalane123@gmail.com)
+🌱 I’m currently learning software development  
+👨‍💻 All of my projects are available at [GitHub](https://github.com/OfentseMabalane1)  
+💬 Ask me about HTML, CSS, Python, Java, JavaScript  
+📫 How to reach me: [keitumetse.mabalane123@gmail.com](mailto:keitumetse.mabalane123@gmail.com)
 
 ---
 
