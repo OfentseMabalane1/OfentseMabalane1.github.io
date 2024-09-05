@@ -6,7 +6,7 @@
 
 ![Coding](https://img.shields.io/badge/Coding-FF69B4?style=flat&logo=code&logoColor=white)
 
-**𝓝𝓪𝓷𝓲𝓑𝔂𝓽𝓮**
+**𝓝𝓪𝓷𝓲𝓑𝔂𝓽𝓮**👩‍💻
 
 - 🌱 I’m currently learning software development
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/OfentseMabalane1)
