@@ -1,13 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=OfentseMabalane1&color=FF69B4)
-
-<style>
-body {
-  background-color: #000000; /* Black background */
-  color: #ffffff; 
-  font-family: Arial, sans-serif; 
-}
-</style>
-
 # Hi 👋, I'm Keitumetse
 
 A passionate software/web developer based in Johannesburg
